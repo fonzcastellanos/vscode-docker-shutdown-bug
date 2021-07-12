@@ -1,0 +1,1 @@
+# vscode-docker-shutdown-bug
